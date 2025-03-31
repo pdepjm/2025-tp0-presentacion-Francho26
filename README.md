@@ -20,4 +20,4 @@ computadoras logran hacer nuevos avances. [Un pequeño video de las computadoras
 
 
 
-<Felicidades enconctraste el ester egg. https://en.wikipedia.org/wiki/Easter_egg_(media)>
+<!--Felicidades enconctraste el ester egg. https://en.wikipedia.org/wiki/Easter_egg_(media) -->
