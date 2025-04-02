@@ -9,7 +9,7 @@
 
 ---
 ## Data adicional ##
-Me gustan las nuevas tecnologias, jugar a la compu, la programacion y comer.
+Me gustan las nuevas tecnologias, jugar videojuegos __(GoW, Uncharted, Ratchet y Clank, Lol, TFT,...)__, la programacion y comer.
 
 ### Tema actual ###
 
